@@ -34,5 +34,6 @@ folium.Marker([lat, lng], popup=number_location).add_to(map_location)
 map_location.save("mylocation.html")   
 map_location.save("mylocation.html")   
 map_location.save("mylocation.html")   
+map_location.save("mylocation.html")   
 
 map_location.save("mylocation.html")   
