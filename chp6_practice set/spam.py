@@ -1,4 +1,4 @@
-# a spam comment is defined as a text containing the following keywords , "make lot of moeny ", "buy now", "subscribe this ", "click this ", write a program to detect this 
+# a spam comment is defined as a text containing the following keywords , "make lot of money ", "buy now", "subscribe this ", "click this ", write a program to detect this 
 a = input("enter your comment :  ")
 comnt1 = "make lot of moeny"
 comnt2 = "buy now"
